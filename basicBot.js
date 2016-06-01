@@ -198,7 +198,7 @@
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
             startupEmoji: false, // true or false
-            cmdDeletion: true,
+            cmdDeletion: false,
             maximumAfk: 60,
             afkRemoval: false,
             maximumDc: 60,
