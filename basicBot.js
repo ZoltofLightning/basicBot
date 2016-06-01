@@ -192,7 +192,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Electribot",
+            botName: "Trixiebot",
             language: "english",
             chatLink: "https://rawgit.com/ZoltofLightning/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
@@ -200,7 +200,7 @@
             startupEmoji: false, // true or false
             cmdDeletion: true,
             maximumAfk: 60,
-            afkRemoval: true,
+            afkRemoval: false,
             maximumDc: 60,
             bouncerPlus: true,
             blacklistEnabled: true,
@@ -270,7 +270,7 @@
                 }
             },
             queueing: 0,
-            queueable: true,
+            queueable: false,
             currentDJID: null,
             historyList: [],
             cycleTimer: setTimeout(function () {
