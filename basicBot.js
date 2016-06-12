@@ -192,7 +192,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Trixiebot",
+            botName: "Electribot",
             language: "english",
             chatLink: "https://rawgit.com/ZoltofLightning/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
