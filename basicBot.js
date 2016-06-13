@@ -199,8 +199,8 @@
             startupVolume: 0, // 0-100
             startupEmoji: false, // true or false
             cmdDeletion: false,
-            maximumAfk: 60,
-            afkRemoval: false,
+            maximumAfk: 30,
+            afkRemoval: true,
             maximumDc: 60,
             bouncerPlus: true,
             blacklistEnabled: true,
